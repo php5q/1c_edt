@@ -1,1 +1,1 @@
-# 1c_edt
+# Тестирование 1C Development Tools и Git
